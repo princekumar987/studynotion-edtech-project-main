@@ -3,7 +3,7 @@
 StudyNotion
 AN ED-TECH PLATFORM
 
-Project Description:-----
+Project Description:----------------------------------------------------------------------------------------------------------------------------------------------------
 
 StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 StudyNotion aims to provide:
@@ -20,7 +20,7 @@ In the following sections, we will cover the technical details of the platform, 
 In summary, StudyNotion is a versatile and intuitive ed-tech platform that is designed to provide an immersive learning experience to students and a platform for instructors to showcase their expertise. In the following sections, we will delve into the technical details of the platform, which will provide a comprehensive understanding of the platform's features and functionalities.
 
 
-System Architecture:--
+System Architecture:------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The StudyNotion ed-tech platform consists of three main components: the front end, the back end, and the database. The platform follows a client-server architecture, with the front end serving as the client and the back end and database serving as the server.
 
